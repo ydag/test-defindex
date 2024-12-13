@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "defindex_factory": "CCWX3JII6MHYVDA2M4OR3NH6554QSYDSVSWW6OS5XQC5KCASXDOYMLWA",
+    "hodl_strategy": "CCO4VGJSJ4ZY6JPAJDPQV4NXECBZJUW57AHUK5QAYFGOBOB3IADUHUGN",
+    "blend_strategy": "CAISVSIIAVR66V3JJ5QENFYRGJICSYJAIXYV2AWYEHBYKJSOV7BFSUP4"
+  },
+  "hashes": {
+    "defindex_vault": "06de677b97be7ecc59bab4ee5610cbbaab70e24ab43b36ab0034559462be7c86",
+    "defindex_factory": "c2564e3dbed31d369bfd43ba98736746c6b3ae9019299da4dff5594826529816",
+    "hodl_strategy": "0f2a695e46e01e76d00b1e407f47c441da6241ea67aef94dc0a16756ff8a07a4",
+    "blend_strategy": "18578746c77bca78a071ccd38c0396f4173b5f70ec3f41d544a76f2b9845ac34"
+  }
+}
